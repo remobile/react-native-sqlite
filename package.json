@@ -1,6 +1,6 @@
 {
     "name": "@remobile/react-native-sqlite",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A cordova sqlite for react-native, supprt for ios and android",
     "main": "index.js",
     "author": {

@@ -14,7 +14,7 @@ npm install @remobile/react-native-sqlite --save
 ```gradle
 ...
 include ':react-native-sqlite'
-project(':react-native-sqlite').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sqlite/android')
+project(':react-native-sqlite').projectDir = new File(rootProject.projectDir, '../node_modules/@remobile/react-native-sqlite/android')
 ```
 
 * In `android/app/build.gradle`
